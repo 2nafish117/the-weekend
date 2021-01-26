@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/anttisinstrumentals_brieftornado.ogg-c62b4b7f1f1650ffca1faa5be7c18465.oggstr"
+
+[deps]
+
+source_file="res://Audio/anttisinstrumentals_brieftornado.ogg"
+dest_files=[ "res://.import/anttisinstrumentals_brieftornado.ogg-c62b4b7f1f1650ffca1faa5be7c18465.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

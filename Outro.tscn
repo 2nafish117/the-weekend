@@ -1,0 +1,11 @@
+[gd_scene format=2]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="USed assets" type="Label" parent="."]
+margin_right = 40.0
+margin_bottom = 14.0
+text = "Guy walk animation:         https://www.uihere.com/free-cliparts/sprite-animation-walking-javascript-walk-cycle-sprite-1690771"
+__meta__ = {
+"_edit_use_anchors_": false
+}
